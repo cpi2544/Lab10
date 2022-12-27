@@ -47,5 +47,6 @@ int main(){
 	cout << "\n";
 	}while(newb != 0);	
 	
+	
 	return 0;
 }
